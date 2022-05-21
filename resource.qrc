@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>copy icon.png</file>
+        <file>exit icon.png</file>
+        <file>open icon.png</file>
+        <file>paste icon.png</file>
+        <file>redo icon.png</file>
+        <file>undo icon.png</file>
+        <file>new icon.png</file>
+        <file>about icon.png</file>
+        <file>cricle icons.png</file>
+        <file>line icon.png</file>
+        <file>rectangle icon.png</file>
+        <file>color icon.png</file>
+        <file>save icons.png</file>
+        <file>save icons 2.png</file>
+        <file>clear-icon-png-19.jpg</file>
+    </qresource>
+</RCC>
