@@ -1,1 +1,1 @@
-#painter using QT
+# painter using QT
